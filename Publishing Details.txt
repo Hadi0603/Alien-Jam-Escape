@@ -1,0 +1,6 @@
+Alien Jam Escape
+PACAKGE NAME: com.aje.alienjamescape
+COMPANY/ KEYSTORE NAME/ KESTORE ALIAS: aje
+PASSWORD: airi@1234
+VERSION 1.0
+BUNDLE VERSION 1
